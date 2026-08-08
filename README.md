@@ -6,7 +6,7 @@ The dashboard is designed as an executive-level business intelligence report tha
 
 ## 📊 Dashboard Preview
 
-![Nykaa Sales Analytics Dashboard]([assets/nykaa-sales-dashboard.png](https://github.com/Neha3020/NYKAA-Sales-Analytics-Dashboard-PowerBI/blob/main/nykaa-sales-dashboard.png))
+![Nykaa Sales Analytics Dashboard](https://github.com/Neha3020/NYKAA-Sales-Analytics-Dashboard-PowerBI/blob/main/nykaa-sales-dashboard.png)
 
 ## 🎯 Project Objective
 
